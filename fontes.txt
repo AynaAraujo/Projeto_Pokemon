@@ -1,0 +1,5 @@
+https://pokeapi.co
+https://www.kaggle.com/datasets/maxiboo/pokemon-gen-1-9-gym-leaders-elite-four?resource=download
+https://www.kaggle.com/datasets/christofferms/pokemon-with-stats-and-image?resource=download
+https://www.kaggle.com/datasets/jadenbailey/pokemon-type-chart
+
