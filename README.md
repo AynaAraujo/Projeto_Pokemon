@@ -44,6 +44,7 @@ streamlit run app.py
 - Streamlit
 - PySpark
 - Pandas
+- JAVA LTS
 
 ---
 
